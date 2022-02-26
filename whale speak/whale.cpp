@@ -1,3 +1,7 @@
+//Author: Parker Gregory
+//2-26-2022
+//Program that converts strings into "whale speak" string
+
 #include <iostream>
 #include <vector>
 #include <string>
